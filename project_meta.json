@@ -1,10 +1,17 @@
 {
-  "seq": 41,
   "title": "MFA Adoption Barriers and Change Management in SMEs",
-  "slug": "mfa-adoption-barriers-and-change-management-in-smes",
+  "old_slug": "mfa-adoption-barriers-and-change-management-in-smes",
+  "slug": "mfa-adoption-change-management",
   "folder": "Mfa_Adoption_Barriers_And_Change_Management_In",
-  "kind": "identity_human",
-  "body_words": 240,
+  "kind": "identity",
+  "body_words": 314,
+  "source": "SCI700",
   "project_id": "Project 36",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
